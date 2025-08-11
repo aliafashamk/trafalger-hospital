@@ -47,9 +47,10 @@ o	Line Chart for Monthly Billing & Insurance Trends
 6.	Interactivity – Add slicers for date ranges and patient IDs for detailed analysis.
 ________________________________________
 Key Insights
-•	Bed Utilization: Private beds had the highest occupancy, followed by General wards and ICU.
-•	Doctor Workload: Workload is evenly distributed across six doctors, each handling ~14% of patients.
-•	Common Diagnoses: Viral infections and flu account for over 50% of total cases, followed by malaria and typhoid.
-•	Financial Trends: Billing amount fluctuates across months, with peaks in January and December, suggesting seasonal illness patterns.
-•	Insurance Coverage: A significant portion of billing is supported by health insurance, with variations by month.
+
+1. Bed Utilization: Private beds had the highest occupancy, followed by General wards and ICU.
+2. Doctor Workload: Workload is evenly distributed across six doctors, each handling ~14% of patients.
+3. Common Diagnoses: Viral infections and flu account for over 50% of total cases, followed by malaria and typhoid.
+4. Financial Trends: Billing amount fluctuates across months, with peaks in January and December, suggesting seasonal illness patterns.
+5. Insurance Coverage: A significant portion of billing is supported by health insurance, with variations by month.
 
